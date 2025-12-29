@@ -1,2 +1,2 @@
 # Video-segmentation
-This project tracks object in the video
+This project tracks object in the video.
